@@ -1,0 +1,5 @@
+name: newton-practice
+dependencies:
+  - python>=3.6
+  - pytest
+  - numpy
